@@ -1,0 +1,22 @@
+
+Cisco WS-3560-24PS-S Layer 3 Switch (2x)
+
+Cisco CISCO2011 Router (4x)
+
+Cisco WIC-1DSU-T1-V2 (4x)
+
+Cisco 2950 24 Port Layer 2 Switch 
+	WS-C2950-24 FAB0536Q0J8 iOS version 12.0(5.3)WC(1)
+	WS-C2950-24 FHK0713Y1LQ iOS version 12.1(12c)EA1
+	WS-C2950-24 FHK0624W1CP iOS version 12.1(9)EA1
+
+Rack Ear Sets (6x)
+Lenovo ThinkPad X220 (2x)
+CAT6E Red Cable (250ft)
+CAT6 RJ45 Connectors (100Pack)
+Coding Stickers (144Pack)
+Tripp Lite 12U 2-Post Open Frame Rack
+Tripp Lite R1215-RA Rackmount PDU Power Strip 
+Belkin Power Strip Surge Protector
+
+

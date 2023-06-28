@@ -1,0 +1,20 @@
+
+
+-- LAMP SERVER LAB --
+
+Linux (server OS)
+
+Apache (webserver software)
+
+MySQL (database)
+
+Python (language)
+
+Firewall configuration with ufw
+ 
+SSL certificates for your website
+
+SSL certificates for authentication and logging into your server 
+
+
+
