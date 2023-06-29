@@ -1,7 +1,3 @@
-
-
-
-
 1.0 Crossover Cable 
 
 2.0 Adding a Switch
@@ -10,17 +6,17 @@
 
 4.0 Link Agregation LACP Port Channels 
 
-5.0 Router on a stick - static routes 
+5.0 Router on a Stick - static routes 
 
-6.0 Routed link between two routers - static routes 
+6.0 Routed Link (static routes) 
 
-7.1 EIGRP
+7.1 EIGRP Routing Protocol
 
-7.2 OSPF
+7.2 OSPF Routing Protocol
 
-7.3 BGP 
+7.3 BGP Routing Protocol
 
-10.0 HSRP hot standby routing protocol for "high availability"
+10.0 HSRP (Hot Standby Routing Protocol) for "high availability"
 
 11.0 Access Control List 
 
