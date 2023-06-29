@@ -1,0 +1,55 @@
+-- Lab Overview -- 
+
+1.0 Crossover Cable 
+
+2.0 Adding a Switchi
+
+0.0 Telnet / SSH 
+
+3.0 VLAN Trunk
+
+4.0 Link Agregation LACP Port Channels 
+
+5.0 Router on a Stick - static routes 
+
+6.0 Routed Link (static routes) 
+
+7.1 EIGRP Routing Protocol
+
+7.2 OSPF Routing Protocol
+
+7.3 BGP Routing Protocol
+
+10.0 HSRP (Hot Standby Routing Protocol) for "high availability"
+
+11.0 Access Control List 
+
+12.0 DHCP 
+
+13.0 DNS 
+
+14.0 NTP 
+
+15.0 NAT 
+
+16.0 GRE tunnel 
+
+17.0 FTP/SFTP 
+
+
+
+-- Standards --
+
+RFC's (Request For Comments) ya heard of em?
+
+OSI Model
+
+
+-- Architecture -- 
+
+Edge 
+DMZ
+Core
+MDF 
+IDF
+
