@@ -1,9 +1,9 @@
 # network-lab
 Cisco network engineering and more
 
-Agenda:
+-- Agenda --
 
-Network Labs
+Network labs completion 
 
 CHS data center field trip 
 
