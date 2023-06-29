@@ -1,0 +1,25 @@
+show version 
+
+show platform
+
+show hardware
+
+show module
+
+show environment 
+
+show cdp neighbor
+
+show ip intertface brief 
+
+show vlan brief 
+
+show vlan description 
+
+show log
+
+show running-config
+
+show interface fastethernet 0/?
+
+
